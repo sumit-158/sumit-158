@@ -26,7 +26,3 @@ Beyond my jobs, I've also been involved with some OpenSource projects some of th
 <a href="https://azure.microsoft.com/en-in/"><img src="https://skillicons.dev/icons?i=azure&perline=1" alt="azure"/></a>
 <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws&perline=1" alt="aws"/></a>
 <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&perline=1" alt="docker"/></a>
-
-### Current Projects:
-- Development of the AI Powered Media Intelligence Tool [AlphaMetricx](https://www.alphametricx.com/).
-- Contributing to the creation of the next-gen ERP for manufacturing [Catalyst](https://catalystai.work).
